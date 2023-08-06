@@ -1,0 +1,25 @@
+sort1 uses: Bubble sort
+
+How do you know?:
+Bubble sort's best case (sorted array) is Ω(n)
+worse case is O(n2)
+
+sorted time is less than random,reversed a lot
+
+sort2 uses: Merge sort
+
+How do you know?:
+Merge sort's best case (sorted array) is Ω(nlogn)
+worse case is O(nlogn)
+
+1. random,sorted,reversed all spent the same time
+2. random,sorted,reversed time are average less than others
+
+sort3 uses: Selection sort
+
+How do you know?:
+Selection sort's best case (sorted array) is Ω(n2)
+worse case is O(n2)
+
+1. random,sorted,reversed all spent the same time
+2. all spent time are more than others's sorted
